@@ -4,4 +4,4 @@
 
 ---
 
-![alt text](https://github.com/aymane-elouafi/Deployment-of-a-Virtualized-Multi-Service-Network-Infrastructure/blob/main/Network%20Architecture%20Diagram.pnghttps://github.com/aymane-elouafi/Deployment-of-a-Virtualized-Multi-Service-Network-Infrastructure/blob/[branch]/image.jpg?raw=true)
+![alt text](https://github.com/aymane-elouafi/Deployment-of-a-Virtualized-Multi-Service-Network-Infrastructure/blob/main/Network%20Architecture%20Diagram.png)
